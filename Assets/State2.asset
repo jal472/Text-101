@@ -16,7 +16,10 @@ MonoBehaviour:
 
     1: Have mantis put him to sleep so that we may remove the Gauntlet from him.
 
-    2: Give him all you''ve got and attack all at once.'
+    2: Give him all you''ve got and attack all at once.
+
+
+    Press Return/ Enter to Restart.'
   nextStates:
   - {fileID: 11400000, guid: 30d0684ba59d8744c939a27153337e3c, type: 2}
   - {fileID: 11400000, guid: 2b55682570bac7e4abc3575ae1ddc570, type: 2}
