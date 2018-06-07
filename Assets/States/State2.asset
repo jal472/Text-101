@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74af5c0599c707c4cb043c6602c4bf21, type: 3}
+  m_Name: State2
+  m_EditorClassIdentifier: 
+  storyText: 'Thanos has arrived on Earth! We must stop him. What is our game plan?
+
+
+    1: Have mantis put him to sleep so that we may remove the Gauntlet from him.
+
+    2: Give him all you''ve got and attack all at once.
+
+
+    Press Return/ Enter to Restart.'
+  nextStates:
+  - {fileID: 11400000, guid: 30d0684ba59d8744c939a27153337e3c, type: 2}
+  - {fileID: 11400000, guid: 2b55682570bac7e4abc3575ae1ddc570, type: 2}
